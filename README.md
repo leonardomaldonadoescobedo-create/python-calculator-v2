@@ -7,29 +7,37 @@ A modular command-line calculator built with Python. Version 3.0 focuses on impr
 - Modular menu divided into Basic and Other Operations
 - Menu options stored in lists
 - Menu generated using "for" loops
-- New mathematical operations planned for this version
+- Separate functions created for basic arithmetic operations
+- Basic operations connected to the main program using "while True"
+- Input validation and error handling implemented for the basic operations
 
 ## Planned Operations
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
 - Percentage
 - Power
 - Modulo
 - Square Root
 - Factorial
 
+## Completed Operations 
+
+- Addiction
+- Subtraction
+- Multiplication
+- Division
+
 ## Technologies
+
 - Python
 
 ## What I Practiced in This Version 
 
-- Functions ("def"): Organized the menu.
+- Functions ("def"): Created separate functions for each basic arithmetic operation.
 - Lists: Stored menu options dynamically.
 - "for" loops: Used loops to display menu options.
-- Code Organization: Started restructuring the calculator
+- "while True": Used a loop to control the main flow of the calculator.
+- Code Organization: Started restructuring the calculator into a more modular design.
+- Error Handling: Added basic input validation and handling for invalid operations.
 
 ## Version History
 
@@ -40,7 +48,7 @@ First version of the calculator. Created as an initial learning project but not 
 First version published on GitHub with basic mathematical operations and percentage calculation.
 
 ### V3.0
-Current version in development. Focused on better code organization, new mathematical operations, and improved error handling.
+Current version in development. Focused on better code organization, reusable functions, and gradually adding new mathematical operations.
 
 ## About
 
